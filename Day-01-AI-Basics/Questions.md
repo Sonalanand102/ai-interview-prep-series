@@ -44,6 +44,7 @@
 
 ## Resources
 
-* Presentation: [AI • ML • Deep Learning • Learning Types • AI Lifecycle-2.pdf](https://github.com/user-attachments/files/28614745/AI.ML.Deep.Learning.Learning.Types.AI.Lifecycle-2.pdf)
+* Presentation: [AI_Basics.pdf](https://github.com/user-attachments/files/28614830/AI_Basics.pdf)
+
 
 * Video: Coming Soon
