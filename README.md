@@ -23,4 +23,4 @@ Resources:
 * Question List
 
 Video Link:
-Coming Soon
+https://youtu.be/0avJA1WFfIo?si=vHFeAu8OgORuFNIN
