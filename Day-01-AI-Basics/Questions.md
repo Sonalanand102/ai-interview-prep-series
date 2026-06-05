@@ -47,4 +47,4 @@
 * Presentation: [AI_Basics.pdf](https://github.com/user-attachments/files/28614830/AI_Basics.pdf)
 
 
-* Video: Coming Soon
+* Video: https://youtu.be/0avJA1WFfIo?si=vHFeAu8OgORuFNIN
