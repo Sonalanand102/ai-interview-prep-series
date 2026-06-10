@@ -24,3 +24,27 @@ Resources:
 
 Video Link:
 https://youtu.be/0avJA1WFfIo?si=vHFeAu8OgORuFNIN
+
+---
+
+## Day 2: Machine Learning Basics
+
+Topics Covered:
+
+* Dataset
+* Features
+* Labels
+* Features vs Labels
+* Training Set
+* Validation Set
+* Test Set
+* Overfitting
+* Underfitting
+* Bias-Variance Tradeoff
+
+Resources:
+
+* Presentation PDF
+* Question List
+
+Video Link: <Add YouTube Link Here>
