@@ -59,4 +59,4 @@ Test Accuracy
 Presentation: [Top 10 ML Fundamentals Every AI Engineer Should Know.pdf](https://github.com/user-attachments/files/28814265/Top.10.ML.Fundamentals.Every.AI.Engineer.Should.Know.pdf)
 
 
-Video: <YouTube Link>
+Video: https://youtu.be/Kft5NwA99OE
