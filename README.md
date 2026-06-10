@@ -47,4 +47,4 @@ Resources:
 * Presentation PDF
 * Question List
 
-Video Link: <Add YouTube Link Here>
+Video Link: https://youtu.be/Kft5NwA99OE
